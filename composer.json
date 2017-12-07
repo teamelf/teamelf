@@ -1,21 +1,21 @@
 {
-    "name": "teamelf/teamelf",
-    "description": "Extensible team management",
-    "keywords": ["team", "management"],
-    "type": "project",
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "GuessEver",
-            "email": "guessever@gmail.com"
-        }
-    ],
-    "require": {
-        "teamelf/teamelf-core": "^0.1.0"
-    },
-    "require-dev": {
-        "franzl/studio": "^0.13.0"
-    },
-    "minimum-stability": "dev",
-    "prefer-stable": true
+  "name": "teamelf/teamelf",
+  "description": "Extensible team management",
+  "keywords": ["team", "management"],
+  "type": "project",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "GuessEver",
+      "email": "guessever@gmail.com"
+    }
+  ],
+  "require": {
+    "teamelf/teamelf-core": "^0.1.0"
+  },
+  "require-dev": {
+    "franzl/studio": "^0.13.0"
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
 }
