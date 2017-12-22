@@ -1,0 +1,10 @@
+server {
+  listen 80;
+  server_name team.elf;
+  root path/to/teamelf/public;
+  index index.php;
+  location / {
+    try_files $uri $uri/ /index.php?$arg;
+  }
+  include php-fpm.conf;
+}

@@ -11,7 +11,7 @@
     }
   ],
   "require": {
-    "teamelf/teamelf-core": "^0.1.0"
+    "teamelf/core": "^0.2.0"
   },
   "require-dev": {
     "franzl/studio": "^0.13.0"
